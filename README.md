@@ -1,2 +1,2 @@
 # BMI-Calculate-
-BMI Calculate use Java language
+BMI Calculate use Java language using BlueJ
